@@ -1,4 +1,4 @@
-public class Stringdemo2 {
+  public class Stringdemo2 {
     public static void main(String[] args) {
         // StringBuffer example
         StringBuffer sb = new StringBuffer("Hello");
